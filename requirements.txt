@@ -1,0 +1,10 @@
+opencv-contrib-python==4.0.0.21
+pillow
+h5py
+scipy
+numpy
+tensorflow-gpu==2.5
+scikit-learn
+matplotlib
+scikit-image
+xlwt
